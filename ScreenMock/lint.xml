@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ClickableViewAccessibility">
+        <ignore path="src/com/dianping/screenmock/FloatWindowSmallView.java" />
+    </issue>
+    <issue id="RtlHardcoded">
+        <ignore path="src/com/dianping/screenmock/FloatWindowSmallView.java" />
+    </issue>
+</lint>
